@@ -1,0 +1,85 @@
+University A
+
+Learning Outcomes/Course Objectives for University A	
+
+1. Develop physical Data Model for RDBMS, 2. DB Implement through RDBMS and data retrive using SQL, 3. Use Data Control Language (DCL) and Transaction Control Language (TCL) in real business activities, 4. Create and do manipulation on database in any domain. 5. Work with table by using PL/SQL Program., 6. Get a clear idea about database transaction activities, 7. Appreciate the issues of database security, 8. Make more effective use of data stored in databases, 9. Design ER Diagrams, 10. To apply normalization techniques to create a database, 11. Able to master the basic concepts and understand the applications of database system, 12. Able to construct a database using basic SQL queries, 13. To identify strengths and weakness of database design, 14. Identify Database Requirements
+
+Teaching or Learning Activities for University A 
+	
+1. Execute a single line and group functions for a table.
+2. Execute DCL and TCL Commands.
+3. Create and manipulate various DB objects for a table.
+4. Create views, partitions and locks for a particular DB.
+5.Write PL/SQL procedure for an application using exception handling.
+6. Write PL/SQL procedure for an application using cursors.
+7. Write a DBMS program to prepare reports for an application using functions.
+8.Write a PL/SQL block for transaction operations of a typical application
+using package.
+9. Design and develop an application using any front end and back end tool
+(make use of ER diagram and DFD).
+Typical Applications – Banking, Electricity Billing, Library Operation)"
+
+Learning Outcomes/Course Objectives for University B
+
+	
+1. To learn the basic principles of database and database design, 2. To learn the basics of RDBMS, 3. To learn the concepts of database manipulation SQL, 4. To study PL/SQL language
+
+Teaching or Learning Activities for University B
+
+
+1. Create a table, insert records and retrieve required information using aggregate, 2. Create the database to enhance Order Processing Application. Write query to specify primary and foreign keys, produce list, deletion of items, and inserting items, 3. create table with special contsraint i.e. gender M and F, range of data, not null, primary keys, 4. create appropriate froms, reports, graphs, views and data filtering, using of multilevel report to retrieve the different types of needed information. Create constraints, including referential integrity constraints, insert data, display structure of tables, using SELECT statement to perform various operations, 5. Create view to retrieve certain information by using inbuilt function and operations like IN, ANY, ALL, EXISTS, 6. Write a procedure 'sales' to update the quantity by accepting Item_ID and Quantity as argument. Write PostgreSQL block to invoke the procedures, 7. implement the required information system, 8. Write SQL scripts to retrieve various reports, 9. Write PostgreSQL anonymous block for displaying various number i.e. whole, odd, even, etx, 10. Write query to insert data to present total field, report based on various requirements i.e. descending, ascending, 
+
+
+These are Specific requirements of the job market
+
+1.      Creating and maintaining or enforcing database standards and policies; Maintain data standards, including adherence to the Data Protection Policies; 												
+2.      Monitor performance and manage parameters to provide fast responses to front-end users												
+3.      Write database documentation, including data standards, procedures and definitions for the data dictionary (metadata).												
+4.      Contribute to the disaster recovery and business continuity planning process regarding the assigned systems and infrastructure;												
+5.      Assist in management of hardware devices, licensing and all programs as assigned												
+6.      Provide progressive Weekly/Monthly assessments and recommendation reports on the Databases performance, Infrastructure requirements and enhancements.												
+7.      Writing disaster recovery plans to uphold DR recovery and resilience tests engagements for Business Continuity assessments etc.												
+8.      Create backup and recovery plans and procedures based on industry best practices, then make sure that the necessary steps are followed (develop, manage and test back-up and recovery plans).												
+9.  Perform daily database administration activities among others including configuration & monitoring, space management												
+10.  Administering database objects to achieve optimum utilization												
+												
+Technical Roles:												
+11.  Creation of databases and manage schema objects (tables, indexes, views etc.).												
+12.  Management of security aspects to the assigned systems, databases, integrity controls, related records, and documents;												
+13.  Undertaking of daily maintenance, testing, backup, archiving, storage strategy and recovery of systems and databases;												
+14.  Applying patches and upgrade of systems and databases;												
+15.  Query and performance tuning of databases;												
+16.  Provisioning/installing, configuring, operating, upgrading and maintaining assigned systems hardware, software, infrastructure and databases.												
+17.  Maintain the strict confidentiality of all records and documents stored in the assigned systems and infrastructure;												
+18.  Support Database Infrastructure needs (Oracle, SQL, PostGRE, MySQL Databases)												
+19.  Provide technical advice and support in problem solving related to systems and applications;												
+20.  Ensure high-availability of systems and services												
+21.  All Databases Data Migrations, Validations and Quality Projects & Requirements												
+22.  Business Products, Audit and Processes enhancements												
+23.  Support End of Day, End of Month and End of Year Batch runs; handling all issues/incidents arising.												
+24.  Collaborates on the initial hardware requirements, installation and configuration of a new/upgrade existing Oracle, SQL, and Postgres Server etc.												
+25.  Efficiently importing large volumes of data that have been extracted from multiple systems into a data warehouse environment.												
+26.  Establish the needs of users and monitor user access and security.												
+27.  Monitor performance and manage parameters in order to provide fast responses to front-end Applications performance tune database queries.												
+28.  Install and test new versions of the database management system (DBMS).												
+29.  Control databases migration, control access permissions and privileges as well as changes of all schema objects.												
+30.  develop, manage and test back-up and recovery plans												
+31.  Proactively monitoring the database's health and taking preventive or corrective action as required (ensure secure services with limited downtime.)												
+32.  Ensure that storage and archiving procedures are functioning correctly upholding proactive carry out capacity planning.												
+33.  Perform the day-to-day support and troubleshooting of enterprise databases, including analysis, troubleshooting, resolving and repair of production, test and disaster recovery issues as well as fulfilling query requests from the business (ad hoc and scheduled).												
+34.  Participates in data architecture requirements discussions and recommends usage of appropriate database and data management technology.												
+35.  Perform database installations and upgrades of Server Software and related products (e.g. WebLogic Application Servers).												
+36.  Provide off-hours support for scheduled processing and system maintenance.												
+37.  Map out the conceptual design for a planned database												
+38.  Consider both back-end organization of data and front-end accessibility for end-users												
+39.  Refine the logical design so that it can be translated into a specific data model												
+40.  Further refining the physical design to meet system storage requirements												
+41. Control access permissions and privileges												
+42. Ensure that storage and archiving procedures are functioning correctly												
+43      Communicate regularly with technical, applications and operational staff to ensure database integrity and security												
+44. Communicate regularly with technical, applications and operational staff to ensure database integrity and security												
+45. Manage the security and disaster recovery aspects of a database												
+46. Defining and implementing event triggers that will alert on potential database performance or integrity issues												
+47. Performing database housekeeping, such as tuning, indexing, etc.												
+48. Monitoring usage, transaction volumes, response times, concurrency levels, etc.												
+
